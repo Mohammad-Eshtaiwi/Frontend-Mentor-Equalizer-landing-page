@@ -89,14 +89,14 @@ body {
   overflow-x: hidden;
 }
 
-h1 {
+h2 {
   font-size: 8rem;
   line-height: 1;
   letter-spacing: -1px;
   font-weight: 600;
 }
 
-h2 {
+h3 {
   font-size: 4rem;
   line-height: 5.2rem;
   font-weight: 600;
@@ -184,7 +184,7 @@ header {
   padding-right: calc(312px);
   margin-bottom: 32.1rem;
 
-  h1 {
+  h2 {
     margin-bottom: 4rem;
   }
 }
@@ -318,7 +318,7 @@ header {
     padding-right: 0;
     margin-bottom: 25.1rem;
 
-    h1 {
+    h2 {
       font-size: 7rem;
     }
   }
@@ -369,7 +369,7 @@ header {
 }
 
 @media screen and (max-width: 550px) {
-  h1 {
+  h2 {
     font-size: 5rem !important;
     word-wrap: break-word;
   }
